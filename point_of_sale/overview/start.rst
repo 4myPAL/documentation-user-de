@@ -18,7 +18,7 @@ You will be able to run real time statistics and consolidations across
 all your shops without the hassle of integrating several external
 applications.
 
-Configuration
+Konfiguration
 =============
 
 Install the Point of Sale Application
