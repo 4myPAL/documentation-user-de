@@ -1,8 +1,8 @@
 :banner: banners/inventory.jpg
 
-=========
-Inventory
-=========
+===================
+6) Inventar & Lager
+===================
 
 .. toctree::
    :titlesonly:
