@@ -1,6 +1,6 @@
-=======================
-Odoo User Documentation
-=======================
+=====================================
+Odoo Business APPs User Dokumentation
+=====================================
 
 .. rst-class:: index-tree
 
