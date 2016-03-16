@@ -1,6 +1,6 @@
-===========================
-End-user Odoo documentation
-===========================
+=======================
+odoo APPs Dokumentation
+=======================
 
 Building requirements:
 
