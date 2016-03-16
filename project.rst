@@ -1,8 +1,8 @@
 :banner: banners/project.jpg
 
-=======
-Project
-=======
+===================
+8) Projektmanagment
+===================
 
 .. toctree::
    :titlesonly:
