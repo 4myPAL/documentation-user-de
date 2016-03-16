@@ -5,8 +5,8 @@ odoo Business APPs
 .. toctree::
    :titlesonly:
 
-   1) Buchhaltung
-   2) Kundenbeziehungen (CRM)
+   accounting
+   crm
    sales
    discuss/getting_started
    purchase
