@@ -1,8 +1,8 @@
 :banner: banners/pos.jpg
 
-=============
-Point of Sale
-=============
+======================
+7) odooPOS Kasse (POS)
+======================
 
 .. toctree::
    :titlesonly:
