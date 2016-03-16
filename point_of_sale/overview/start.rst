@@ -41,8 +41,8 @@ Then choose the one you want to install.
 
 When it is done, you are all set to use the point of sale.
 
-Adding Products
----------------
+Produkte hinzufügen
+-------------------
 
 To add products from the point of sale **Dashboard** go to 
 :menuselection:`Orders --> Products` and click on **Create**.
