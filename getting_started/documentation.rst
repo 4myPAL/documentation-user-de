@@ -16,8 +16,8 @@ basics.*
 *If you have not read this document, our project manager will review
 this with you at the time of the kick-off call.*
 
-Getting Started
-===============
+Loslegen
+========
 
 Do not wait for the kick-off meeting to begin playing with the software.
 The more exposure you have with Odoo, the more time you will save later
