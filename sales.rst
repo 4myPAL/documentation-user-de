@@ -1,8 +1,8 @@
 :banner: banners/sales.jpg
 
-=====
-Sales
-=====
+==========
+3) Verkauf
+==========
 
 .. toctree::
    :titlesonly:
