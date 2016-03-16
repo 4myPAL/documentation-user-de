@@ -1,11 +1,11 @@
 :banner: banners/discuss.jpg
 
-=======
-Discuss
-=======
+================
+4) Kommunikation
+================
 
-Overview
-========
+Übersicht
+=========
 
 Odoo Discuss is an easy to use messaging app for teams that brings all
 your organization's communication into one place and seamlessly
