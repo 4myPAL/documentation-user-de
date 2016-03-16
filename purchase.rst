@@ -1,8 +1,8 @@
 :banner: banners/purchase.jpg
 
-========
-Purchase
-========
+==========
+5) Einkauf
+==========
 
 .. toctree::
    :titlesonly:
