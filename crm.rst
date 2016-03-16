@@ -1,8 +1,8 @@
 :banner: banners/crm.jpg
 
-===
-CRM
-===
+==========================
+2) Kundenbeziehungen (CRM)
+==========================
 
 .. toctree::
    :titlesonly:
