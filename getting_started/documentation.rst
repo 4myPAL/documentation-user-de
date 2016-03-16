@@ -1,8 +1,8 @@
 :banner: banners/getting_started.jpg
 
-===========
-Odoo Online
-===========
+==============
+9) Online Shop
+==============
 
 This document summarizes **Odoo's Online services**, our Success Pack
 **implementation methodology**, and *best practices* to **get started**
