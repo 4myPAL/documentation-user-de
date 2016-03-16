@@ -1,8 +1,8 @@
 :banner: banners/crm.jpg
 
-=======
-Discuss
-=======
+================
+4) Kommunikation
+================
 
 .. toctree::
    :titlesonly:
