@@ -1,8 +1,8 @@
 :banner: banners/seo.jpg
 
-=======
-Website
-=======
+=================
+10) Website (CMS)
+=================
 
 .. toctree::
    :titlesonly:
