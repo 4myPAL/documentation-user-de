@@ -1,6 +1,6 @@
-===========================
-How to set up cash control?
-===========================
+=========================================
+Wie richte ich die Bargeld Kontrolle ein?
+=========================================
 
 Cash control permits you to check the amount of the cashbox at the
 opening and closing.
