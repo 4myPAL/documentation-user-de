@@ -1,6 +1,6 @@
-==========================
-Belgian Fiscal Data Module
-==========================
+============================
+Steuerdaten-Modul Österreich
+============================
 
 .. toctree::
    :titlesonly:
