@@ -1,6 +1,6 @@
-=======================
-Analysiere die Verkäufe
-=======================
+======================
+Analysiere den Verkauf
+======================
 
 .. toctree::
    :titlesonly:
