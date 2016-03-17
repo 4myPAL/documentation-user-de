@@ -1,6 +1,6 @@
-===============
-Advanced topics
-===============
+=====================
+Weiterführende Themen
+=====================
 
 .. toctree::
    :titlesonly:
