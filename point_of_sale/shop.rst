@@ -1,6 +1,6 @@
-======================
-Advanced Shop Features
-======================
+==========================
+Erweiterte Shop-Funktionen
+==========================
 
 .. toctree::
    :titlesonly:
