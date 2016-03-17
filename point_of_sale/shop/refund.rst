@@ -1,6 +1,6 @@
-==================================
-How to return and refund products?
-==================================
+==============================================
+Wie erfolgt eine Warenrückgabe mit Gutschrift?
+==============================================
 
 To refund a customer, from the PoS main view, you have to insert
 negative values. For instance in the last order you count too many
